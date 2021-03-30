@@ -30,7 +30,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Parth Shah](https://github.com/parthmshah1302).<br />
-This project is [MIT](www.google.com) licensed.
+This project is [MIT](https://github.com/parthmshah1302/IMnotDb/blob/main/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
